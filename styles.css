@@ -1,0 +1,39 @@
+*{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+h1, h3 {
+    background-color: cornsilk;
+    color:cornflowerblue;
+}
+
+h1 {
+    font-weight: 400;
+}
+
+h3 {
+    font-style: italic;
+}
+
+a {
+    background-color: darkorange;
+    color:blue;
+    font-style: italic;
+}
+
+h2 {
+    font-weight:200;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+.ingredients,.directions {
+    text-align:center;
+}
+
+.directions{
+    line-height: 5px;
+}
